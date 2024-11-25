@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Multimodal, Trustworthy, and Safe AI Reasoning Systems. <br/><a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar.</a>
 
