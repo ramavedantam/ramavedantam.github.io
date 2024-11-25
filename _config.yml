@@ -8,10 +8,7 @@ middle_name:
 last_name: Vedantam
 email: ramakrishna928@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   I am an AI researcher and enthusiast based out of the New York City (NYC) area. Previously,
-  I have held appointments as a Research Scientist at
-   Meta AI (FAIR), and at the New York University (NYU). I have also
-  spent time as an intern at Google Research, Microsoft Research, and Ecole Centrale Paris / INRIA.
+   I am an AI researcher and enthusiast based out of the New York City (NYC) area.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
