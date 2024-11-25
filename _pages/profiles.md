@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: collaborators
+title: Collaborators
 description: Research collaborators (listed below in no specific order)
 nav: true
 nav_order: 7
