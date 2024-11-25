@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ramavedantam
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - google/joint_vae
+  - facebookresearch/productive_concept_learning
+  - tylin/coco-caption
+  - facebookresearch/meru
+  - facebookresearch/domainbed_measures
+  - facebookresearch/selective-vqa_ood
