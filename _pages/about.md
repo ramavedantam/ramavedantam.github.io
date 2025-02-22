@@ -23,5 +23,3 @@ Meta AI and at the New York University [Center for Data Science](https://cds.nyu
 degree from [Georgia Tech](https://www.ic.gatech.edu/), where I was a [Google Ph.D. fellow](https://research.google/blog/announcing-the-2018-google-phd-fellows-for-north-america-europe-and-the-middle-east/).
 
 I am thankful to my [collaborators](/people/) for their support.
-
-*I am on the faculty job market for the 2024-25 cycle! Please see my [Research Statement]({{  site.url }}/assets/pdf/rama_research_statement.pdf) and [Teaching Statement]({{  site.url }}/assets/pdf/rama_teaching_statement.pdf).*
