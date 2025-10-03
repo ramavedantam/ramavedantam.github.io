@@ -16,8 +16,8 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an AI researcher based out of New York. Previously, I have been a Research Scientist at [Facebook AI Research](https://ai.meta.com/research/) (FAIR), Meta AI and at the New York University [Center for Data Science](https://cds.nyu.edu/) (CDS) (where I was a visiting faculty).
+I am an AI researcher based out of New York. Previously, I spent time as a Research Scientist at [Facebook AI Research](https://ai.meta.com/research/) (FAIR), Meta AI and as a visiting faculty at the New York University [Center for Data Science](https://cds.nyu.edu/) (CDS).
 
 Before that, I earned my Ph.D. from [Georgia Tech](https://www.ic.gatech.edu/), where I was a [Google Ph.D. fellow](https://research.google/blog/announcing-the-2018-google-phd-fellows-for-north-america-europe-and-the-middle-east/).
 
-I am grateful to my many [collaborators](/people/) over the years for brainstorming and support.
+I am grateful for many wonderful [collaborators](/people/) who supported my work over the years.
