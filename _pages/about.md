@@ -16,8 +16,8 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an AI researcher based out of New York. Previously, I spent time as a Research Scientist at [Facebook AI Research](https://ai.meta.com/research/) (FAIR), Meta AI and as a visiting faculty at the New York University [Center for Data Science](https://cds.nyu.edu/) (CDS).
+I am an AI innovator currently serving as Senior Director of AI Research at a [Flagship Pioneering](https://www.flagshippioneering.com/) venture. In this role, I lead AI strategy, planning, and execution to help build transformational AI companies. 
 
-Before that, I earned my Ph.D. from [Georgia Tech](https://www.ic.gatech.edu/), where I was a [Google Ph.D. fellow](https://research.google/blog/announcing-the-2018-google-phd-fellows-for-north-america-europe-and-the-middle-east/).
+Previously, I was a researcher at [Facebook AI Research (FAIR)](https://ai.meta.com/research/), Meta AI and a visiting faculty member at the New York University [Center for Data Science](https://cds.nyu.edu/) (CDS). In a past life, I was a PhD student at [Georgia Tech](https://www.ic.gatech.edu/), where I was a [Google Ph.D. fellow](https://research.google/blog/announcing-the-2018-google-phd-fellows-for-north-america-europe-and-the-middle-east/).
 
-I am grateful for many wonderful [collaborators](/people/) who supported my work over the years.
+I am grateful to many wonderful collaborators](/people/) who have supported my work over the years.
