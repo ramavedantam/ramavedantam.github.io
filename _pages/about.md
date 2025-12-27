@@ -20,4 +20,4 @@ I am an AI innovator currently serving as Senior Director of AI Research at a [F
 
 Previously, I was a researcher at [Facebook AI Research (FAIR)](https://ai.meta.com/research/), Meta AI and a visiting faculty member at the New York University [Center for Data Science](https://cds.nyu.edu/) (CDS). In a past life, I was a PhD student at [Georgia Tech](https://www.ic.gatech.edu/), where I was a [Google Ph.D. fellow](https://research.google/blog/announcing-the-2018-google-phd-fellows-for-north-america-europe-and-the-middle-east/).
 
-I am grateful to many wonderful collaborators](/people/) who have supported my work over the years.
+I am grateful to many wonderful [collaborators](/people/) who have supported my work over the years.
