@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI . <br/><a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar.</a>
+subtitle: AI Leader and Innovator. <br/><a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar.</a>
 
 profile:
   align: left
