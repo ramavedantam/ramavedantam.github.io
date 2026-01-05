@@ -16,7 +16,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I serve as Senior Director at Flagship Pioneering, where I lead AI efforts to create and scale new ventures. 
+I serve as Senior Director at [Flagship Pioneering](https://www.flagshippioneering.com/), where I lead AI efforts to create and scale new ventures. 
 
 My research interests include: (1) foundational principles for building AI systems, including multimodality, safety, and reasoning; (2) making AI systems more humanlike and affective, with empathy and strong theory of mind; and (3) the science and art of system-level, recursive (or agentic) self-improvement.
 
